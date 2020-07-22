@@ -1,0 +1,7 @@
+1. fontawesome library link
+2. border-radius not working
+3. margin 0px not working
+
+1.gradient color in only box
+2.apply line-break in email id.
+3.bring button in center
